@@ -5,7 +5,7 @@ This project is a simple Telegram bot that provides access to Gemini AI, a power
 Key Features:
 
 Interact with Gemini AI through Telegram.
-Access various AI functionalities, such as natural language processing, image recognition, and more.
+Access various AI functionalities, such as natural language processing.
 Seamless integration with Telegram for easy communication and usage.
 Simple and user-friendly interface for smooth interaction with AI services.
 This project is ideal for developers and users looking to leverage Gemini AI's capabilities within the Telegram messaging platform. Get started with AI-powered tasks and queries directly from Telegram with this simple and efficient bot.
